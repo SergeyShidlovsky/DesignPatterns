@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class WindowButton implements Button {
+public class WindowsButton implements Button {
 
     JPanel pannel = new JPanel();
     JFrame frame = new JFrame();

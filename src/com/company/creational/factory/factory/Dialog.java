@@ -1,4 +1,4 @@
-package com.company.creational.factory;
+package com.company.creational.factory.factory;
 
 import com.company.creational.factory.buttons.Button;
 
