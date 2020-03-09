@@ -1,4 +1,9 @@
-package com.company.creational.factory.factory.buttons;
+package com.company.creational.factory.buttons;
 
-public class Button {
+public interface Button {
+
+    //Here is a common interface for buttons
+    void render();
+    void onClick();
 }
+
