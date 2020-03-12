@@ -6,6 +6,7 @@ import com.company.creational.abstractfactory.checkboxes.Checkbox;
 import com.company.creational.abstractfactory.checkboxes.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
+
     @Override
     public Button createButton() {
         return new WindowsButton();
